@@ -15,4 +15,6 @@ graph TD
     I --> M[Pi-hole]
     I --> N[Paperless-ngx]
     I --> O[Scrypted]
+    I --> P[WireGuard]
+
 ```
