@@ -1,6 +1,6 @@
 ```mermaid
 graph TD
-    A[Server Hardware] --> B[Operating System]
+    A[Server Hardware: Ryzen 7 5800X, GTX 1060 6GB, 64GB RAM] --> B[TrueNAS SCALE]
     B --> C[Virtualization Layer]
     C --> D[Windows VM]
     C --> E[Docker VM]
@@ -16,5 +16,4 @@ graph TD
     I --> N[Paperless-ngx]
     I --> O[Scrypted]
     I --> P[WireGuard]
-
 ```
