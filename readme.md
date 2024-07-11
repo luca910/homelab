@@ -16,6 +16,7 @@ graph TD
     I --> N[Paperless-ngx]
     I --> O[Scrypted]
     I --> P[WireGuard]
+    I --> Q[Home Assistant]
 ```
 
 https://de.pcpartpicker.com/list/rddLGP
